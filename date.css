@@ -1,0 +1,42 @@
+body {
+    margin: 5%;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(https://cdn.discordapp.com/attachments/976997370132848640/1088156380910866533/spahsba6tati_Eternal_Slayer_lovely_love_background_for_website_a713dcd9-2f63-4260-b47f-33bc75906c9d.png);
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #a4d1cd;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 2);
+  }
+  
+  .title {
+    margin-top: 0;
+    font-size: 36px;
+    color: #333;
+  }
+  
+  button {
+    font-size: 20px;
+    color: #fff;
+    background-color: #6c5ce7;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #4834d4;
+  }
+  
+  .idea {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+  }
